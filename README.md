@@ -99,10 +99,10 @@ I enjoy creating software that is scalable, reliable, and user-centric while tra
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| ♻️ **Waste2Wonder** | AI-powered waste detection and upcycling recommendation platform | Next.js, YOLOv8, Gemini, LangChain, ChromaDB |
-| 📊 **InOutBook** | Business management platform with invoicing, analytics, payment and worker management | React, Flask, MySQL |
-| 🤖 **Enterprise AI Scheduling Assistant** | Intelligent appointment scheduling using Microsoft Copilot Studio and Workato | Copilot Studio, Workato, AthenaHealth APIs |
-| 🧠 **AI Research Assistant** | RAG-powered document assistant with semantic search and LLMs | LangChain, FAISS, Gemini |
+| **Waste2Wonder** | AI-powered waste detection and upcycling recommendation platform | React, Next.js, YOLOv8, Gemini, LangChain, ChromaDB |
+| **InOutBook** | Business management platform with invoicing, analytics, payment and worker management | React, Next.js, PostgreSQL |
+| **AI Scheduling Assistant** | Intelligent appointment scheduling using Microsoft Copilot Studio and Workato | Copilot Studio, Workato, AthenaHealth APIs |
+| **AI Research Assistant** | RAG-powered document assistant with semantic search and LLMs | LangChain, FAISS, Gemini |
 
 ---
 
