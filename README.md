@@ -28,23 +28,6 @@ I am a B.Tech graduate in Artificial Intelligence & Data Science with a passion 
 
 My expertise spans **Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Generative AI, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP)**. Alongside AI, I design and develop end-to-end software solutions, architect scalable backend systems, integrate cloud services and APIs, and build production-ready enterprise applications.
 
-I enjoy creating software that is scalable, reliable, and user-centric while transforming innovative ideas into impactful products.
-
----
-
-# 🎯 Core Expertise
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & Large Language Models
-- 💬 Natural Language Processing (NLP)
-- 👁️ Computer Vision
-- ⚡ Agentic AI & Multi-Agent Systems
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🔗 Model Context Protocol (MCP)
-- 🌐 Full-Stack Application Development
-- ☁️ Enterprise AI Automation
-- 🔌 API Design & Integration
-
 ---
 
 # 🚀 Tech Stack
