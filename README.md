@@ -64,23 +64,20 @@ I am passionate about creating technology that is intelligent, reliable, and imp
 
 ### AI / ML
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Generative AI
-- LLMs
-- Agentic AI
-- RAG
-- MCP
-- LangChain
-- FAISS
-- ChromaDB
-- TensorFlow
-- Scikit-Learn
-- OpenCV
-- YOLOv8
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-3498DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-0052CC?style=for-the-badge"/>
+</p>
 
 ### Cloud & DevOps
 
